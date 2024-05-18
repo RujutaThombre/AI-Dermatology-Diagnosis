@@ -1,0 +1,11 @@
+Patient ID,Name,Age,Gender,Diagnosis,Last Visit,Next Appointment,Notes
+P001,John Doe,36,Male,Eczema,2023-01-31,2024-01-31,Improving
+P002,Jane Smith,59,Female,Acne,2023-02-28,2024-02-29,Needs follow-up
+P003,Alice Johnson,22,Female,Rosacea,2023-03-31,2024-03-31,Stable
+P004,Robert Brown,37,Male,Psoriasis,2023-04-30,2024-04-30,Under observation
+P005,Emily Davis,56,Female,Melanoma,2023-05-31,2024-05-31,Requires biopsy
+P006,Michael Wilson,31,Male,Lupus,2023-06-30,2024-06-30,Monitor closely
+P007,Sophia Martinez,56,Female,Alopecia,2023-07-31,2024-07-31,Treatment ongoing
+P008,Daniel Anderson,30,Male,Dermatitis,2023-08-31,2024-08-31,Recovery expected
+P009,Olivia Thomas,59,Female,Cellulitis,2023-09-30,2024-09-30,No change
+P010,William Moore,22,Male,Vitiligo,2023-10-31,2024-10-31,Responding well
