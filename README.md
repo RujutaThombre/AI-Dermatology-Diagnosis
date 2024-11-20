@@ -54,7 +54,7 @@ To run DermiNOW locally, follow these steps:
 
 ## Contributors
 
-- **Your Name** - [RujutaThombre](https://github.com/RujutaThombre)
+- **Rujuta Thombre** - [RujutaThombre](https://github.com/RujutaThombre)
 - **Viveka Patil** - [Viveka9Patil](https://github.com/Viveka9Patil)
 
 ## License
